@@ -1,3 +1,5 @@
+<img align = "center" alt="visualising" width="1000" src="https://img.pikbest.com/wp/202346/data-analytics-web-banner-and-business-chart-mockup-featuring-a-3d-rendered-seo-user-interface_9621529.jpg!bw700">
+
 <h1 align="center">Hi 👋, I'm Sharma Deepak</h1>
 <h3 align="center">A passionate Data Analyst From India | I am actively seeking an exciting opportunity in the field of Data Analysis</h3>
 
