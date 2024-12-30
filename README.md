@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iitz-deepaksharma&label=Profile%20views&color=0e75b6&style=flat" alt="iitz-deepaksharma" /> </p>
 
-<img align = "right" alt="visualising" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
+<img align = "right" alt="" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
 
 - ⚡ I’m currently learning **data analysis and building foundational skills in Python, SQL, and data visualization tools and manipulation techniques.
 - 🌱 Passionate about turning raw data into meaningful insights.
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Data Analysis and Manipulation Techniques**
 
-<img align = "right" alt="visualising" src="https://tse2.mm.bing.net/th?id=OIP.Xj9rWuHI5l3_qU6glLt34wHaE9&pid=Api&P=0&h=180">
+<img align = "right" alt="columnchart" width="350" src="https://i.pinimg.com/originals/c9/91/72/c99172c17b83d3c620b997858351b2a5.gif">
 
 - 📫 How to reach me **iitz.deepaksharma007@gmail.com**
 
