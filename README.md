@@ -32,7 +32,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iitz-deepaksharma&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### My GitHub Contributions
-![Snake animation](https://github.com/iitz-deepaksharma/iitz-deepaksharma/blob/output/github-contribution-grid-snake.svg)
+### 🎬  My GitHub Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 
