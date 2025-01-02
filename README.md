@@ -7,7 +7,7 @@
 
 <img align = "right" alt="" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
 
-- ⚡ I’m currently learning **data analysis and building foundational skills in Python, SQL, and data visualization tools and manipulation techniques.
+- ⚡ I’m currently learning data analysis and building foundational skills in Python, SQL, and data visualization tools and manipulation techniques.
 - 🌱 Passionate about turning raw data into meaningful insights.
 - ⚡ Working towards becoming a data analyst.
 
